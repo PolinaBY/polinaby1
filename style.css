@@ -26,7 +26,7 @@ nav ul
   height: 130px;
   line-height: 130px;
 }
-nav ul li
+nav ul dd
 {
   float: left;
   border-left: 1px solid #fff;
@@ -34,7 +34,7 @@ nav ul li
   line-height: 80px;
   margin-top: 20px;
 }
-nav ul li a
+nav ul dd a
 {
   padding: 0 60px;
 }
