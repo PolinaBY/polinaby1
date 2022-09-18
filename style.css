@@ -1,9 +1,7 @@
-html,body
-{
+html,body {
   background-color: #f0f8ff;
 }
-#line
-{
+#line {
   background-color: #8dcaff;
   width: 1024px;
   margin: 0 auto;
