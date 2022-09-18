@@ -16,16 +16,10 @@ height: 100px;
 float: left;
 margin-right: 10px;
 }
-#nav
-{
-  background-color: #d0f0c0;
-  width: 1500px;
-  border: 8px;
-  height: 100px;
 nav
   {
-    margin-left: auto;
-    margin-right: auto;
+    border-left: auto;
+    border-right: auto;
 }
   nav ul
   {
@@ -44,4 +38,3 @@ nav
   {
     padding: 0 60px;
   }
-}
