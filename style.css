@@ -2,9 +2,11 @@ html,body {
   background-color: #f0f8ff;
 }
 #line{
+  background-color: #8dcaff;
   width: 1024px;
   margin: 0 auto;
   height: 100px;
+}
 #logo 
 {
 width: 100px;
