@@ -33,3 +33,7 @@ nav ul li
   line-height: 80px;
   margin-top: 20px;
 }
+nav ul li
+{
+  padding: 0 60px;
+}
