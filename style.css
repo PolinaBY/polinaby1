@@ -1,7 +1,9 @@
-html,body {
+html,body 
+{
   background-color: #def1e5;
 }
-#line {
+#line 
+{
   background-color: #d0f0c0;
   width: 1920px;
   margin: 0 auto;
