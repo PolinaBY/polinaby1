@@ -29,11 +29,12 @@ nav ul
 nav ul li
 {
   float: left;
-  border: 1px solid #fff;
+  border-left: 1px solid #fff;
+  border-right: 1px solid #fff;
   line-height: 80px;
   margin-top: 20px;
 }
-nav ul li
+nav ul li a
 {
   padding: 0 60px;
 }
