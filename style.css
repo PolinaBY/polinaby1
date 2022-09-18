@@ -18,8 +18,8 @@ margin-right: 10px;
 }
 nav
 {
-  float: right;
-  width: 1200px;
+  border-left: auto;
+  border-right: auto;
 }
 nav ul
 {
