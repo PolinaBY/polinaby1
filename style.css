@@ -18,6 +18,19 @@ margin-right: 10px;
 }
 nav
 {
-  
   clear: both;
+  float: right;
+  widht: 630px;
+}
+nav ul
+{
+  height: 80px;
+  line-height: 80px;
+}
+nav ul li
+{
+  float: left;
+  border-right: 1px solid #d0f0c0;
+  line-height: 51px;
+  margin-top: 14px;
 }
