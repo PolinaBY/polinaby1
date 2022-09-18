@@ -6,7 +6,7 @@ html,body
 {
   background-color: #d0f0c0;
   width: 1920px;
-  margin: 0 auto;
+  margin: 8px;
   height: 100px;
 }
 #logo 
@@ -18,5 +18,6 @@ margin-right: 10px;
 }
 nav
 {
+  
   clear: both;
 }
