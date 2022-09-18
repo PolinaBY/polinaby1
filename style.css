@@ -18,8 +18,8 @@ margin-right: 10px;
 }
 nav
 {
-  border-left: auto;
-  border-right: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 nav ul
 {
