@@ -16,6 +16,9 @@ height: 100px;
 float: left;
 margin-right: 10px;
 }
+#nav
+{
+  background-color: #d0f0c0;
 nav
 {
   margin-left: auto;
@@ -37,4 +40,5 @@ nav ul li
 nav ul li a
 {
   padding: 0 60px;
+}
 }
