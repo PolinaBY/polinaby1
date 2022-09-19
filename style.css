@@ -16,10 +16,13 @@ height: 100px;
 float: left;
 margin-right: 10px;
 }
+i {
+  margin-right: 10px;
+}
 nav
 {
   display: block;
-  width: 660px;
+  width: 880px;
   margin: 0 auto 30px;
 }
 ul {
@@ -28,7 +31,7 @@ ul {
 }
 .menu ul
 {
-  padding: 1em 0;
+  padding: 0;
   background: #d0f0c0;
 }
 .menu li
@@ -38,7 +41,6 @@ ul {
 .menu a
 {
   padding: 1em;
-  background: rgba(177, 152, 145, .3);
   border-right: 1px solid #fff;
 }
 .menu li {
