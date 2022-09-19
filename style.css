@@ -16,7 +16,8 @@ height: 100px;
 float: left;
 margin-right: 10px;
 }
-i {
+i 
+{
   margin-right: 10px;
 }
 nav
@@ -25,7 +26,8 @@ nav
   width: 880px;
   margin: 0 auto 30px;
 }
-ul {
+ul 
+{
   list-style: none; 
   margin: 0 auto;
 }
@@ -43,6 +45,17 @@ ul {
   padding: 1em;
   border-right: 1px solid #fff;
 }
-.menu li {
+.menu li 
+{
   display: inline;
 }
+.position div
+{
+  float: left;
+  margin-bottom: 15px;
+}
+.silki
+{
+  width: 100%;
+}
+  
