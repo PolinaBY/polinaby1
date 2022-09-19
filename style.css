@@ -23,7 +23,7 @@ i
 nav
 {
   display: block;
-  width: 880px;
+  width: 960px;
   margin: 40px;
 }
 ul 
@@ -36,7 +36,7 @@ ul
   background-color: #f8f8ff;
   width: 960px;
   margin: 20px;
-  margin-left:480px;
+  margin-left:480px;;
 }
 .menu ul
 {
