@@ -14,17 +14,17 @@ html,body
 width: 100px;
 height: 100px;
 float: left;
-margin-right: 10px;
+margin-right: 100px;
 }
 i 
 {
-  margin-right: 10px;
+  margin-right: 50px;
 }
 nav
 {
   display: block;
   width: 880px;
-  margin: 0 auto 30px;
+  margin: 40px;
 }
 ul 
 {
