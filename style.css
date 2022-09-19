@@ -22,6 +22,10 @@ nav
   width: 660px;
   margin: 0 auto 30px;
 }
+ul {
+  list-style: none; 
+  margin: 0 auto;
+}
 .menu ul
 {
   padding: 1em 0;
