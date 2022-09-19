@@ -22,21 +22,21 @@ nav
   width: 660px;
   margin: 0 auto 30px;
 }
-#menu ul
+.menu ul
 {
   padding: 1em 0;
   background: #d0f0c0;
 }
-#menu li
+.menu li
 {
   float: left;
 }
-#menu a
+.menu a
 {
   padding: 1em;
   background: rgba(177, 152, 145, .3);
   border-right: 1px solid #fff;
 }
-#menu li {
+.menu li {
   display: inline;
 }
