@@ -6,7 +6,7 @@ html,body
 {
   background-color: #d0f0c0;
   width: 1920px;
-  margin: 8px;
+  margin: 0 auto;
   height: 100px;
 }
 #logo 
