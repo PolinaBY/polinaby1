@@ -18,13 +18,14 @@ margin-right: 10px;
 }
 nav
 {
-  border-left: auto;
-  border-right: auto;
+  float: right;
+  width: 1500;
 }
 nav ul
 {
-  display: table;
-  margin: auto;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 nav ul li
 {
