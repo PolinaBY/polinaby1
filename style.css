@@ -28,6 +28,7 @@ p
 } 
 .menu
 {
+  text-decoration: none;
   list-style: none;
   background-color: #f8f8ff;
   width: 960px;
