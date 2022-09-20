@@ -2,14 +2,14 @@ html,body
 {
   background-color: #e2f8d7;
 }
-#line 
+.line 
 {
   background-color: #228b22;
   width: 1920px;
   margin: 0 auto;
   height: 100px;
 }
-#logo 
+.logo 
 {
 width: 100px;
 height: 100px;
@@ -108,5 +108,12 @@ tr.even
   width: 960px;
   margin: 40px;
   margin-left:480px;
+}
+.footer
+{
+  background-color: #228b22;
+  width: 1920px;
+  margin: 0 auto;
+  height: 100px;
 }
   
