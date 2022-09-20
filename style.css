@@ -27,7 +27,6 @@ p
 .menu
 {
   list-style: none;
-  text-align: center;
   background-color: #f8f8ff;
   width: 960px;
   margin: 50px;
@@ -36,7 +35,6 @@ p
 }
 .silki
 {
-  text-align: center;
   background-color: #f8f8ff;
   width: 960px;
   margin: 50px;
@@ -71,7 +69,6 @@ tr.even
 }
 .table
 {
-  text-align: center;
   background-color: #f8f8ff;
   width: 960px;
   margin: 20px;
@@ -79,7 +76,6 @@ tr.even
 }
 .forma
 {
-  text-align: center;
   background-color: #f8f8ff;
   width: 960px;
   margin: 40px;
