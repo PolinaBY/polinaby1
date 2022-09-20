@@ -14,7 +14,7 @@ html,body
 width: 100px;
 height: 100px;
 float: left;
-margin-right: 480px;
+margin-right: 340px;
 margin-left: 480px;
 }
 p
@@ -72,7 +72,7 @@ tr.even
   background-color: #f8f8ff;
   width: 960px;
   margin: 50px;
-  margin-left:480px;
+  margin-left: 480px;
 }
 .forma
 {
