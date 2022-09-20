@@ -58,6 +58,35 @@ ul
   margin: 50px;
   margin-left:480px;
 }
+table 
+{
+  border: 1px solid #228b22;
+  width: 900px;
+  background: #ffff;
+}
+th 
+{
+  padding: 10px; 
+  border: 1px solid #A9E2CC;
+}
+td 
+{
+  font-size: 0.8em;
+  padding: 5px 7px;
+  border: 1px solid #A9E2CC;
+}
+TR.even 
+{
+  background: #e2f8d7;
+}
+.table
+{
+  text-align: center;
+  background-color: #f8f8ff;
+  width: 960px;
+  margin: 20px;
+  margin-left:480px;
+}
 .forma
 {
   text-align: center;
