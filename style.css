@@ -16,8 +16,8 @@ html,body
   float: left;
   margin-right: 340px;
   margin-left: 480px;
-  style = font-family: "monospace";
-  style = color: "#ffff";
+  font-family: "monospace";
+  color: #ffff;
 }
 p
 {
