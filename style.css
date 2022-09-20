@@ -19,7 +19,7 @@ margin-right: 100px;
 nav
 {
   display: block;
-  width: 660px;
+  width: 960px;
   margin: 0 auto 30px;
 }
 ul 
@@ -44,6 +44,14 @@ ul
 .menu li 
 {
   display: inline;
+}
+.menu
+{
+  text-align: center;
+  background-color: #f8f8ff;
+  width: 960px;
+  margin: 40px;
+  margin-left:480px;
 }
 .position div
 {
