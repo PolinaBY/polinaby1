@@ -80,6 +80,7 @@ tr.even
   background-color: #f8f8ff;
   width: 960px;
   margin: 40px;
+  height: auto;
   float: left;
   margin-left:480px;
 }
