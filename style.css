@@ -11,11 +11,13 @@ html,body
 }
 #logo 
 {
-width: 100px;
-height: 100px;
-float: left;
-margin-right: 340px;
-margin-left: 480px;
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-right: 340px;
+  margin-left: 480px;
+  style = font-family: "monospace";
+  style = color: #ffff;
 }
 p
 {
