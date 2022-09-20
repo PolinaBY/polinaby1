@@ -71,14 +71,14 @@ tr.even
 {
   background-color: #f8f8ff;
   width: 960px;
-  margin: 20px;
+  margin: 50px;
   margin-left:480px;
 }
 .forma
 {
   background-color: #f8f8ff;
   width: 960px;
-  margin: 15px;
+  margin: 50px;
   height: auto;
   margin-left:480px;
 }
@@ -87,7 +87,7 @@ tr.even
   background-color: #228b22;
   width: 1920px;
   margin: 0 auto;
-  margin-top: 30px;
+  margin-top: 50px;
   height: 100px;
 }
   
