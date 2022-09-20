@@ -19,8 +19,9 @@ html,body
   margin-right: 340px;
   margin-left: 480px;
 }
-a
+li
 {
+  list-style-type: none;
   display: inline-block;
   float: left;
   margin-right: 80px;
